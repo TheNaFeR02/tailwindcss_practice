@@ -1,7 +1,22 @@
-## To do
-* Log out
-* localhost:5173 default link has to be **/iniciar_sesion** if is not logged and if is already logged has to be **/inicio**
+# CSS Practice: TailwindCSS
+This simple project was created years ago as a learning exercise for styling websites. It focuses on practicing various concepts in TailwindCSS, including working with themes, defining color schemes, responsive design utilities and creating layouts. 
 
-* Sending role in response body and revalidating: As you suggested, you can send the role in the response body after a successful login. On the client side, you can store this role information in a state variable or some kind of in-memory storage and use it to control the rendering of your components. However, when it comes to making requests that depend on the user's role (like accessing a certain API endpoint), you should revalidate this role on the server side. In other words, do not trust the client to honestly tell you their role when performing actions - check their role based on their authentication on the server side.
+## How to Run
 
-* ProtectedRoutes check the list of roles, then check the role of the user both with endpoints on the API. After checking the role of the user ex if the user is a company and has the company role then let them access to the Link/Component.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vite)](https://skillicons.dev)
+
+To run the project, follow these steps:
+
+1. Clone the repository:
+```
+git clone https://github.com/TheNaFeR02/tailwindcss_practice.git
+```
+2. Run the development server:
+```
+npm run dev
+```
+
+3. Visit http://localhost:5173/recepcion/nueva#
+
+## What did I learn?
+In addition to TailwindCSS, the project also practices core CSS concepts such as different units, box model, Flexbox, Grid, media queries, and more.
