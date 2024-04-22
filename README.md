@@ -10,6 +10,10 @@ To run the project, follow these steps:
 1. Clone the repository:
 ```
 git clone https://github.com/TheNaFeR02/tailwindcss_practice.git
+
+cd tailwindcss_practice
+
+npm i
 ```
 2. Run the development server:
 ```
@@ -20,3 +24,5 @@ npm run dev
 
 ## What did I learn?
 In addition to TailwindCSS, the project also practices core CSS concepts such as different units, box model, Flexbox, Grid, media queries, and more.
+Some of javascript by activating the camera for taking a picture, and also being able to draw a signature.
+
