@@ -1,0 +1,12 @@
+[
+    { "id": 1, "tipo_evaluacion": "Ingreso" },
+    { "id": 2, "tipo_evaluacion": "Periódico" },
+    { "id": 3, "tipo_evaluacion": "Seguimiento de Recomendaciones" },
+    { "id": 4, "tipo_evaluacion": "Valoración Médica" },
+    { "id": 5, "tipo_evaluacion": "Retiro" },
+    { "id": 6, "tipo_evaluacion": "Exámen de Laboratorio" },
+    { "id": 7, "tipo_evaluacion": "Post-Incapacidad" },
+    { "id": 8, "tipo_evaluacion": "Reubicación Laboral" },
+    { "id": 9, "tipo_evaluacion": "Reintegro Laboral" },
+    { "id": 10, "tipo_evaluacion": "Cambio de Cargo" }
+]

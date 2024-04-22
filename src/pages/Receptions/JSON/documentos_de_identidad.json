@@ -1,0 +1,7 @@
+[
+    { "id": 1, "documento": "Cédula" },
+    { "id": 2, "documento": "Cédula de Extranjería" },
+    { "id": 3, "documento": "Pasaporte" },
+    { "id": 4, "documento": "Permiso de Trabajo" },
+    { "id": 5, "documento": "Otro" }
+]

@@ -1,0 +1,5 @@
+[
+    { "id": 1, "genero": "Masculino" },
+    { "id": 2, "genero": "Femenino" },
+    { "id": 3, "genero": "No Identificado" }
+]

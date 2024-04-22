@@ -1,0 +1,209 @@
+[
+    {
+        "id": 1,
+        "name": "COOSALUD EPS-S",
+        "codes": ["ESS024", "EPS042", "ESSC24", "EPSS42"],
+        "nit": "900226715",
+        "regime": "AMBOS REGÍMENES"
+    },
+    {
+        "id": 2,
+        "name": "NUEVA EPS",
+        "codes": ["EPS037", "EPSS41", "EPSS37", "EPS041"],
+        "nit": "900156264",
+        "regime": "AMBOS REGÍMENES"
+    },
+    {
+        "id": 3,
+        "name": "MUTUAL SER",
+        "codes": ["ESS207", "EPS048", "ESSC07", "EPSS48"],
+        "nit": "806008394",
+        "regime": "AMBOS REGÍMENES"
+    },
+    {
+        "id": 4,
+        "name": "ALIANSALUD EPS",
+        "codes": ["EPS001", "EPSS01"],
+        "nit": "830113831",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 5,
+        "name": "SALUD TOTAL EPS S.A.",
+        "codes": ["EPS002", "EPSS02"],
+        "nit": "800130907",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 6,
+        "name": "EPS SANITAS",
+        "codes": ["EPS005", "EPSS05"],
+        "nit": "800251440",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 7,
+        "name": "EPS SURA",
+        "codes": ["EPS010", "EPSS10"],
+        "nit": "800088702",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 8,
+        "name": "FAMISANAR",
+        "codes": ["EPS017", "EPSS17"],
+        "nit": "830003564",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 9,
+        "name": "SERVICIO OCCIDENTAL DE SALUD EPS SOS",
+        "codes": ["EPS018", "EPSS18"],
+        "nit": "805001157",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 10,
+        "name": "SALUD MIA",
+        "codes": ["EPS046", "EPSS46"],
+        "nit": "900914254",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 11,
+        "name": "COMFENALCO VALLE",
+        "codes": ["EPS012", "EPSS12"],
+        "nit": "890303093",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 12,
+        "name": "COMPENSAR EPS",
+        "codes": ["EPS008", "EPSS08"],
+        "nit": "860066942",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 13,
+        "name": "EPM - EMPRESAS PUBLICAS DE MEDELLIN",
+        "codes": ["EAS016"],
+        "nit": "890904996",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 14,
+        "name": "FONDO DE PASIVO SOCIAL DE FERROCARRILES NACIONALES DE COLOMBIA",
+        "codes": ["EAS027"],
+        "nit": "800112806",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 15,
+        "name": "CAJACOPI ATLANTICO",
+        "codes": ["CCF055", "CCFC55"],
+        "nit": "890102044",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 16,
+        "name": "CAPRESOCA",
+        "codes": ["EPS025", "EPSC25"],
+        "nit": "891856000",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 17,
+        "name": "COMFACHOCO",
+        "codes": ["CCF102", "CCFC20"],
+        "nit": "891600091",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 18,
+        "name": "COMFAORIENTE",
+        "codes": ["CCF050", "CCFC50"],
+        "nit": "890500675",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 19,
+        "name": "EPS FAMILIAR DE COLOMBIA",
+        "codes": ["CCF033", "CCFC33"],
+        "nit": "901543761",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 20,
+        "name": "ASMET SALUD",
+        "codes": ["ESS062", "ESSC62"],
+        "nit": "900935126",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 21,
+        "name": "EMSSANAR E.S.S.",
+        "codes": ["ESS118", "ESSC18"],
+        "nit": "901021565",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 22,
+        "name": "CAPITAL SALUD EPS-S",
+        "codes": ["EPSS34", "EPSC34"],
+        "nit": "900298372",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 23,
+        "name": "SAVIA SALUD EPS",
+        "codes": ["EPSS40", "EPS040"],
+        "nit": "900604350",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 24,
+        "name": "DUSAKAWI EPSI",
+        "codes": ["EPSI01", "EPSIC1"],
+        "nit": "824001398",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 25,
+        "name": "ASOCIACION INDIGENA DEL CAUCA EPSI",
+        "codes": ["EPSI03", "EPSIC3"],
+        "nit": "817001773",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 26,
+        "name": "ANAS WAYUU EPSI",
+        "codes": ["EPSI04", "EPSIC4"],
+        "nit": "839000495",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 27,
+        "name": "MALLAMAS EPSI",
+        "codes": ["EPSI05", "EPSIC5"],
+        "nit": "837000084",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 28,
+        "name": "PIJAOS SALUD EPSI",
+        "codes": ["EPSI06", "EPSIC6"],
+        "nit": "809008362",
+        "regime": "SUBSIDIADO"
+    },
+    {
+        "id": 29,
+        "name": "SALUD BÓLIVAR EPS SAS",
+        "codes": ["EPS047", "EPSS47"],
+        "nit": "901438242",
+        "regime": "CONTRIBUTIVO"
+    },
+    {
+        "id": 30,
+        "name": "Otro (Escribir una nueva EPS)"
+    }
+]

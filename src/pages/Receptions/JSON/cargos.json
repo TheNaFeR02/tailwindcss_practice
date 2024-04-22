@@ -1,0 +1,15 @@
+[
+    { "id": 1, "cargo": "Producción" },
+    { "id": 2, "cargo": "Operativo" },
+    { "id": 3, "cargo": "Conducción" },
+    { "id": 4, "cargo": "Administrativo" },
+    { "id": 5, "cargo": "Operario" },
+    { "id": 6, "cargo": "Asesora" },
+    { "id": 7, "cargo": "Ventas" },
+    { "id": 8, "cargo": "Educación" },
+    { "id": 9, "cargo": "Docente" },
+    { "id": 10, "cargo": "Comercial" },
+    { "id": 11, "cargo": "Manipulador" },
+    { "id": 12, "cargo": "Seguridad" },
+    { "id": 13, "cargo": "No Aplica" }
+]

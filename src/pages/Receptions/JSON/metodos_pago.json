@@ -1,0 +1,4 @@
+[
+    {"id":"1", "metodo_pago": "Efectivo"},
+    {"id":"2", "metodo_pago": "Transferencia"}
+]

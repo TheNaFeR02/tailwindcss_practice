@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Colfondos"
+    },
+    {
+        "id": 2,
+        "name": "Colpensiones"
+    },
+    {
+        "id": 3,
+        "name": "Fondo Nacional del Ahorro"
+    },
+    {
+        "id": 4,
+        "name": "Porvenir"
+    },
+    {
+        "id": 5,
+        "name": "Protección"
+    },
+    {
+        "id": 6,
+        "name": "Skandia"
+    },
+    {
+        "id": 7,
+        "name": "No Sabe"
+    },
+    {
+        "id": 8,
+        "name": "No Tiene"
+    },
+    {
+        "id": 9,
+        "name": "Otro (Escribir uno nuevo)"
+    }  
+]

@@ -1,0 +1,12 @@
+[
+    { "id": 1, "ciudad": "Barranquilla" },
+    { "id": 2, "ciudad": "Bogota" },
+    { "id": 3, "ciudad": "Cali" },
+    { "id": 4, "ciudad": "Cartagena" },
+    { "id": 5, "ciudad": "Guajira" },
+    { "id": 6, "ciudad": "Medellin" },
+    { "id": 7, "ciudad": "Monteria" },
+    { "id": 8, "ciudad": "Santa Marta" },
+    { "id": 9, "ciudad": "Sincelejo" },
+    { "id": 10, "ciudad": "Valledupar" }
+]

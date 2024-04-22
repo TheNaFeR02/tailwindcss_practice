@@ -1,0 +1,10 @@
+[
+    { "id": 1, "grupo_sanguineo": "A+" },
+    { "id": 2, "grupo_sanguineo": "A-" },
+    { "id": 3, "grupo_sanguineo": "B+" },
+    { "id": 4, "grupo_sanguineo": "B-" },
+    { "id": 5, "grupo_sanguineo": "AB+" },
+    { "id": 6, "grupo_sanguineo": "AB-" },
+    { "id": 7, "grupo_sanguineo": "O+" },
+    { "id": 8, "grupo_sanguineo": "O-" }
+]

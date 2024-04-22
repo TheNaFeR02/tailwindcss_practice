@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Axal Colpatria"
+    },
+    {
+        "id": 2,
+        "name": "Colmena Seguros"
+    },
+    {
+        "id": 3,
+        "name": "Compañía de Seguros de Vida Aurora S.A."
+    },
+    {
+        "id": 4,
+        "name": "La Equidad Seguros de Vida"
+    },
+    {
+        "id": 5,
+        "name": "Liberty Seguros de Vida"
+    },
+    {
+        "id": 6,
+        "name": "Mapfre Seguros"
+    },
+    {
+        "id": 7,
+        "name": "Positiva"
+    },
+    {
+        "id": 8,
+        "name": "Previsora"
+    },
+    {
+        "id": 9,
+        "name": "Seguros Bolívar S.A."
+    },
+    {
+        "id": 10,
+        "name": "Seguros de Vida Alfa S.A."
+    },
+    {
+        "id": 11,
+        "name": "No Sabe"
+    },
+    {
+        "id": 12,
+        "name": "No Tiene"
+    },
+    {
+        "id": 13,
+        "name": "Otro (Escribir uno nuevo)"
+    }   
+]

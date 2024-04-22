@@ -1,0 +1,12 @@
+[
+    { "id": 1, "escolaridad": "Analfabeta" },
+    { "id": 2, "escolaridad": "Primaria" },
+    { "id": 3, "escolaridad": "Secundaria" },
+    { "id": 4, "escolaridad": "Secundaria incompleta" },
+    { "id": 5, "escolaridad": "Técnico" },
+    { "id": 6, "escolaridad": "Tecnólogo" },
+    { "id": 7, "escolaridad": "Pregrado" },
+    { "id": 8, "escolaridad": "Especialista" },
+    { "id": 9, "escolaridad": "Maestría" },
+    { "id": 10, "escolaridad": "Doctorado" }
+]
